@@ -1,0 +1,6 @@
+更新pip插件 在CMD命令窗口中运行  python -m pip install --upgrade pip
+用pip更新其它插件 pip install --upgrade 插件名
+1.Flask-Script 支持命令行选项
+2.Flask-Bootstrap 它提供的用户界面组件可用于创建整洁且具有吸引力的网页（是客户端框架）
+3.Flask-Moment 为不同时区的客户本地化日期时间
+4.Flask-WTF 处理Web表单的扩展

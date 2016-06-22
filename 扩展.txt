@@ -4,4 +4,4 @@
 2.Flask-Bootstrap 它提供的用户界面组件可用于创建整洁且具有吸引力的网页（是客户端框架）
 3.Flask-Moment 为不同时区的客户本地化日期时间
 4.Flask-WTF 处理Web表单的扩展
-5.Sqlite
+5.Flask-SQLAlchemy 简化了在Flask 程序中使用SQLAlchemy 的操作,SQLAlchemy 是一个很强大的关系型数据库框架

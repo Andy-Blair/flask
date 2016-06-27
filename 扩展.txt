@@ -5,3 +5,4 @@
 3.Flask-Moment 为不同时区的客户本地化日期时间
 4.Flask-WTF 处理Web表单的扩展
 5.Flask-SQLAlchemy 简化了在Flask 程序中使用SQLAlchemy 的操作,SQLAlchemy 是一个很强大的关系型数据库框架
+6.Flask-mail 调用SMTP服务器，并用通过服务器发送邮件
